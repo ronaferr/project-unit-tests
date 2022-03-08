@@ -91,7 +91,7 @@ Você implementará várias funções para atender aos requisitos propostos e/ou
 ### Antes de começar a desenvolver:
 
 1. Clone o repositório
-  * `git clone git@github.com:tryber/sd-020-a-project-js-unit-tests.git`.
+  * `git clone git@github.com:tryber/sd-020-a-project-js-unit-tests.git`
   * Entre na pasta do repositório que você acabou de clonar:
     * `cd sd-020-a-project-js-unit-tests`
 
